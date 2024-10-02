@@ -9,6 +9,7 @@ Features:
 User-friendly Interface: A clean and responsive layout with intuitive controls.
 Game Logic: Built-in checks for winning conditions and draw scenarios.
 Replay Options: Players can reset the game or start a new game at any time.
+
 Feel free to explore the code, contribute, or modify it to enhance functionality. Enjoy playing!
 
 
